@@ -18,7 +18,7 @@
     "@docusaurus/plugin-client-redirects": "^2.2.0",
     "@docusaurus/plugin-google-analytics": "^2.2.0",
     "@docusaurus/preset-classic": "^2.2.0",
-    "@docusaurus/theme-mermaid": "^2.2.0",
+    "@docusaurus/theme-mermaid": "^3.0.0",
     "@loadable/component": "^5.15.2",
     "@mdx-js/react": "^1.6.22",
     "clsx": "^1.1.1",
@@ -28,7 +28,7 @@
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-player": "^2.11.0",
-    "redocusaurus": "^1.4.0"
+    "redocusaurus": "^2.0.2"
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "^2.2.0"
